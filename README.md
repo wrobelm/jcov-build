@@ -3,4 +3,6 @@ As at the official site of JCov the release download doesn't work anymore, and s
 
 You can checkout original JCov sources here: hg clone http://hg.openjdk.java.net/code-tools/jcov
 
+I prepared a big article about using JCov code coverage tool, you can find it here: http://blog.mwrobel.eu/dynamic-java-e2e-code-coverage/
+
 
